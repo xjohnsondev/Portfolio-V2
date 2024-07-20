@@ -1,0 +1,97 @@
+.hero-section {
+    background: url('/public/assets/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .content {
+    max-width: 1102px;
+    padding: 20px;
+  }
+  
+  .hello-world {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    letter-spacing: 3px;
+    color: #cc005f;
+    margin: 0;
+  }
+  
+  .name {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 84px;
+    letter-spacing: -1px;
+    margin: 5px 0;
+  }
+  
+  .roles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: 2px;
+    margin: -10px 0 0 0;
+    color: '#FFFFFF';
+  }
+  
+  .roles .divider {
+    margin: 0 10px;
+  }
+  
+  .more-about-me {
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    transition: .5s;
+    padding: 10px 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    margin-top: 35px;
+    cursor: pointer;
+    width: 228px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+  .more-about-me:hover {
+    border-color: #cc005f;
+    transition: .5s;
+  }
+  
+  .hero-link{
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .hero-icon{
+    font-size: 40px;
+  }
+
+  .link-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+    margin-top: 120px;
+    gap: 50px;
+  }
+
+  .icon:hover {
+    cursor: pointer;
+  }

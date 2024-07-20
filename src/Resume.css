@@ -1,0 +1,107 @@
+.resume-container {
+    padding: 100px 140px;
+    background-color: #EBEBEB;
+}
+
+.resume-heading {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #ff0077;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: -1px;
+    color: #313131;
+    margin: 16px 0;
+}
+
+.resume-description {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #7d7d7d;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 649px;
+}
+
+.section-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #ff0077;
+    text-align: center;
+    margin-top: 65px;
+    margin-bottom: 50px;
+}
+
+.experience-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.experience-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    /* border-bottom: 1px solid #ddd; */
+    padding-bottom: 15px;
+    gap: 150px;
+}
+
+.experience-left {
+    flex: 1;
+    text-align: right;
+}
+
+.experience-right {
+    flex: 1;
+    text-align: left;
+}
+
+.ex-right-hr {
+    width: 50px;
+    color: #ddd;
+    margin: 15px 0;
+}
+
+h4,
+p {
+    margin: 5px 0;
+}
+
+
+
+.education-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.education-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    /* border-bottom: 1px solid #ddd; */
+    padding-bottom: 15px;
+    gap: 150px;
+}
+
+.education-left {
+    flex: 1;
+    text-align: right;
+}
+
+.education-right {
+    flex: 1;
+    text-align: left;
+}
