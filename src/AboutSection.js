@@ -1,17 +1,18 @@
 import React from 'react';
 import ReactNative from "./images/react-native.svg";
 import Python from "./images/python.svg";
+import Headshot from './images/headshot.jpg'
 import './AboutSection.css';
 
 const AboutSection = () => {
     return (
-        <section className="about-section">
+        <section className="about-section" id='about-section'>
             <div className="about-content">
                 <div className="about-heading">
                     <h5>About</h5>
                     <h1>Let me introduce myself.</h1>
                     <div className="profile-section">
-                        <img src="/images/headshot.jpg" alt="Profile" className="profile-pic" />
+                        <img src={Headshot} alt="Profile" className="profile-pic" />
                         <p>I am a Software Engineer with a proven track record in delivering high-quality solutions. Skilled in analyzing complex problems and implementing effective, innovative solutions. A collaborative team player focused on achieving organizational goals through technical excellence and innovation.
                         </p>
                     </div>

@@ -2,6 +2,14 @@ import React from 'react';
 import './HeroSection.css';
 
 const HeroSection = () => {
+
+    const scrollToNextSection = () => {
+        const aboutSection = document.getElementById("about-section");
+        if (aboutSection) {
+          aboutSection.scrollIntoView({ behavior: "smooth" });
+        }
+    };
+
     return (
         <section className="hero-section">
             <div className="content">
@@ -14,7 +22,7 @@ const HeroSection = () => {
                     <span>Mobile Developer</span>
                     <span className="divider">|</span>
                 </div>
-                <div className="more-about-me">
+                <div className="more-about-me" onClick={scrollToNextSection}>
                     <span>More About Me</span>
                 </div>
                 <ul className='link-list'>
