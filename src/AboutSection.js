@@ -26,7 +26,7 @@ const AboutSection = () => {
                         <li><strong>Fullname:</strong><br></br>Xavier Johnson</li>
                         <li><strong>Services:</strong> <br></br>Full-Stack Developer, Mobile Developer</li>
                         <li><strong>Email:</strong><br></br>xjohnsondev@gmail.com</li>
-                        <li><strong>Website:</strong><br></br>https://xjohnsondev.github.io/Portfolio/</li>
+                        <li><strong>Website:</strong><br></br>https://xjohnsondev.github.io/Portfolio-V2/</li>
                         <li><strong>Github:</strong><br></br>https://github.com/xjohnsondev</li>
                     </ul>
                 </div>
