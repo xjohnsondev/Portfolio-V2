@@ -5,9 +5,15 @@ const Resume = () => {
     const experiences = [
         {
             title: "Front-End Developer",
-            duration: "May, 2024 - Present",
+            duration: "October, 2024 - November, 2024",
+            company: "Global NGO Executive Committee",
+            description: "Design and implement user-friendly interfaces using React for solutions targeting e-waste; integrating third-party APIs and services to enhance functionality and user experience.",
+        },
+        {
+            title: "Front-End Developer",
+            duration: "May, 2024 - July, 2024",
             company: "Driven II Develop",
-            description: "Actively engaged in the development of a robust real estate application as a front-end developer within an AGILE framework, while maintaining continuous communication with the UI/UX team and back-end developers to ensure seamless integration and user experience.",
+            description: "Engaged in the development of a robust real estate application as a front-end developer within an AGILE framework, while maintaining continuous communication with the UI/UX team and back-end developers to ensure seamless integration and user experience.",
         },
         {
             title: "Software Engineer Trainee",
@@ -23,10 +29,10 @@ const Resume = () => {
         },
         {
             title: "Police Officer",
-            duration: "July, 2021, December, 2022",
+            duration: "July, 2021 - December, 2022",
             company: "City of Henderson, NV",
             description: "Performed rescue functions at accidents, emergencies, and disasters by directing traffic and administering emergency medical aid. Conducted criminal investigations by securing crime scenes, gathering evidence, and interviewing victims, witnesses, and suspects.",
-        }
+        },
     ];
 
     const education = [

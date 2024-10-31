@@ -2,6 +2,7 @@ import React from 'react';
 import ReactNative from "./images/react-native.svg";
 import Python from "./images/python.svg";
 import Headshot from './images/headshot.jpg'
+import Resume from './images/XavierJohnsonResume.pdf'
 import './AboutSection.css';
 
 const AboutSection = () => {
@@ -49,8 +50,9 @@ const AboutSection = () => {
                 </div>
             </div>
             <div className="buttons">
-                <button className="hire-me">Hire Me</button>
-                <button className="download-cv">Download CV</button>
+                <a href={Resume} download="XavierJohnsonResume.pdf">
+                    <button className="download-cv">Download CV</button>
+                </a>            
             </div>
         </section>
     );
