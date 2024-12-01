@@ -3,11 +3,13 @@ import Tempo from "./images/TempoSS.png";
 import Primal from "./images/PrimalSS.png";
 import Jobly from "./images/JoblySS.png";
 import Pong from "./images/pongSS.jpg";
+import PopVault from "./images/PopvaultSS.png";
 import './Portfolio.css';
 
 const images = [
   { src: Tempo, alt: "Tempo", link: "https://github.com/xjohnsondev/Tempo" },
   { src: Primal, alt: "Primal", link: "https://github.com/xjohnsondev/Primal" },
+  { src: PopVault, alt: "PopVault", link: "https://github.com/xjohnsondev/PopVault" },
   { src: Jobly, alt: "Jobly", link: "https://github.com/xjohnsondev/Jobly" },
   { src: Pong, alt: "Pong", link: "https://github.com/xjohnsondev/PONG" },
 ];

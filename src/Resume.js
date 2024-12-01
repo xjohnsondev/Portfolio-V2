@@ -39,13 +39,11 @@ const Resume = () => {
         {
             degree: "Software Engineer Career Track",
             school: "Springboard",
-            completed: "April, 2024",
             description: 'Completed a rigorous, project-based, comprehensive curriculum covering full-stack development, including front-end and back-end technologies, algorithms, data structures, object-oriented programming, and software design principles - while receiving 1-on-1 mentorship from an industry professional.'
         },
         {
             degree: "Bachelor of Arts, Criminal Justice",
             school: "Delaware State University",
-            completed: "December, 2015",
             description: null
         }
     ];
@@ -83,7 +81,6 @@ const Resume = () => {
                         <li className="education-item" key={edu.school}>
                             <div className="education-left">
                                 <h4>{edu.degree}</h4>
-                                <p>Completed: {edu.completed}</p>
                             </div>
                             <div className="education-right">
                                 <h4>{edu.school}</h4>
