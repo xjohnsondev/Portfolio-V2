@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio-V2/static/css/main.fd195151.css",
-    "main.js": "/Portfolio-V2/static/js/main.d4270b4f.js",
+    "main.js": "/Portfolio-V2/static/js/main.044798bf.js",
     "static/js/453.8ab44547.chunk.js": "/Portfolio-V2/static/js/453.8ab44547.chunk.js",
     "static/media/PrimalSS.png": "/Portfolio-V2/static/media/PrimalSS.ebd7fea1b33b1eb38f99.png",
     "static/media/PopvaultSS.png": "/Portfolio-V2/static/media/PopvaultSS.d747b6fd7793b89f05c8.png",
     "static/media/TempoSS.png": "/Portfolio-V2/static/media/TempoSS.6cf7712a2a4fc69a7431.png",
     "static/media/JoblySS.png": "/Portfolio-V2/static/media/JoblySS.dcea5efb10733dc786f8.png",
     "static/media/background.jpg": "/Portfolio-V2/static/media/background.6aeeae6fd307167b84b8.jpg",
-    "static/media/XavierJohnsonResume.pdf": "/Portfolio-V2/static/media/XavierJohnsonResume.eb2a50444189e79f1083.pdf",
+    "static/media/XavierJohnsonResume.pdf": "/Portfolio-V2/static/media/XavierJohnsonResume.298dc40a60f78eb490e8.pdf",
     "static/media/headshot.jpg": "/Portfolio-V2/static/media/headshot.43609b76418b5edcb9a7.jpg",
     "static/media/pongSS.jpg": "/Portfolio-V2/static/media/pongSS.b05c794b708141495c46.jpg",
     "static/media/react-native.svg": "/Portfolio-V2/static/media/react-native.0236071c426003bc542e12fd5867ae5f.svg",
     "static/media/python.svg": "/Portfolio-V2/static/media/python.e9751126997d33712a95df5e19fe2d58.svg",
     "index.html": "/Portfolio-V2/index.html",
     "main.fd195151.css.map": "/Portfolio-V2/static/css/main.fd195151.css.map",
-    "main.d4270b4f.js.map": "/Portfolio-V2/static/js/main.d4270b4f.js.map",
+    "main.044798bf.js.map": "/Portfolio-V2/static/js/main.044798bf.js.map",
     "453.8ab44547.chunk.js.map": "/Portfolio-V2/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd195151.css",
-    "static/js/main.d4270b4f.js"
+    "static/js/main.044798bf.js"
   ]
 }
