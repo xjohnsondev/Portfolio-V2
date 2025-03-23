@@ -4,13 +4,16 @@ import Primal from "./images/PrimalSS.png";
 import Jobly from "./images/JoblySS.png";
 import Pong from "./images/pongSS.jpg";
 import PopVault from "./images/PopvaultSS.png";
+import Crud from "./images/crudAppSS.png";
+import Ecotech from "./images/EcotechSS.png";
 import './Portfolio.css';
 
 const images = [
+  { src: Ecotech, alt: "Ecotech", link: "https://github.com/xjohnsondev/Ecotech" },
   { src: Tempo, alt: "Tempo", link: "https://github.com/xjohnsondev/Tempo" },
   { src: Primal, alt: "Primal", link: "https://github.com/xjohnsondev/Primal" },
+  { src: Crud, alt: "CRUD", link: "https://github.com/xjohnsondev/CRUD-app"},
   { src: PopVault, alt: "PopVault", link: "https://github.com/xjohnsondev/PopVault" },
-  { src: Jobly, alt: "Jobly", link: "https://github.com/xjohnsondev/Jobly" },
   { src: Pong, alt: "Pong", link: "https://github.com/xjohnsondev/PONG" },
 ];
 

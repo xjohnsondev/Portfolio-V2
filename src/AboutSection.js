@@ -42,6 +42,7 @@ const AboutSection = () => {
                         <img src={ReactNative} alt="React Native Logo" className='skill' style={{ 'marginTop': '-5px' }} />
                         <i className="devicon-express-original-wordmark colored skill"></i>
                         <i className="devicon-nodejs-plain-wordmark colored skill"></i>
+                        <i class="devicon-java-plain-wordmark colored skill"></i>
                         <img src={Python} alt="Python Logo" className='skill' style={{ 'marginLeft': '10px' }} />
                         <i className="devicon-flask-original-wordmark colored skill"></i>
                         <i className="devicon-postgresql-plain-wordmark colored skill"></i>
